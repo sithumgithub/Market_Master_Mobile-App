@@ -1,6 +1,6 @@
 # Market_Master_Mobile-App
 
-This repository contains the Figma design files for the Market Master Mobile App. The purpose of this project is to create an intuitive and user-friendly interface for a market management mobile application.
+This repository contains the Figma design files for the Market Master Mobile App. The project's purpose is to create an intuitive and user-friendly interface for a market management mobile application.
 
 ![Market Master Mobile App]( Market_Master_Mobile-App/readmeimg.png)
 
